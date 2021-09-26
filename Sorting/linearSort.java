@@ -1,4 +1,4 @@
-package com.ani;
+package com.Sorting;
 
 import java.util.Scanner;
 
