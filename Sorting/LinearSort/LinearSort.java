@@ -34,6 +34,8 @@ public class linearSort {
             }
         }
         return -1;
+
+//        Returns -1 if search is unsuccessful
     }
 
 }
